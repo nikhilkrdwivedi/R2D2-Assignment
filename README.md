@@ -6,6 +6,9 @@ I am able to access database Using API. I created two modules.
 ## Module-A
 ### this module is based on api response.When user click on API SEARCH tab.He can write movie name and this api send back to us raw JSON.
 We parse this data and using BOOTSTARP framework.We can beautifully represent movie name,rating, overview, release date etc.
+Inline-style: 
+![alt Img-1](https://github.com/NikhilKrDwivedi/R2D2-Assignment/blob/master/Project-Screenshots/API_Search-1.png)
+
 Along with api request, we save this response into our datebase. Every user may search different movie. In this way we have rich database.
 To prevent duplicate entry. We make movie id as primary key.
 ## Module-B
