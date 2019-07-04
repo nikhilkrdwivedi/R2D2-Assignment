@@ -1,5 +1,4 @@
-# The Movie DataBase Assignment For R2D2
-# 1. 
+# The Movie DataBase Assignment For R2D2 
 ## Introduction
 I am using The Movie Database API.
 I am able to access database Using API. I created two modules.
@@ -17,5 +16,5 @@ To prevent duplicate entry. We make movie id as primary key.
 ### In this module, user can directly query in our local datebase, where we store movie data.
 ### Without any search [DataBase-SEARCH]: 
 ![alt Img-1](https://github.com/NikhilKrDwivedi/R2D2-Assignment/blob/master/Project-Screenshots/Local-Search-1.png)
-### Without any search [DataBase-SEARCH]: 
+### After User search any movie [DataBase-SEARCH]: 
 ![alt Img-1](https://github.com/NikhilKrDwivedi/R2D2-Assignment/blob/master/Project-Screenshots/Local-Search-2.png)
